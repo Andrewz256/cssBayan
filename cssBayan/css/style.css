@@ -1,0 +1,85 @@
+body {
+    padding: 0;
+    height: 1vh;
+    
+}
+img{
+    display: block;
+}
+.header {
+
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+
+}
+.header-text {
+    font-size: 3em;
+    margin: 0 auto;
+    font-weight: 500;
+}
+.main {
+    
+}
+.bayan-carousel {
+    
+}
+.memes-layout {
+    height: 2em;
+
+
+}
+.memes-layout:hover {
+    height: auto;
+
+
+}
+#mem1:hover {
+    background: url(../assets/Before-After\ Coding.jpg) no-repeat center/80%;
+    width: 100%;
+}
+#mem2:hover {
+    background: url(../assets/Go-and-get.jpg) no-repeat center/80%;
+    width: 100%;
+}
+#mem3:hover {
+    background: url(../assets/arrayindexing.jpg) no-repeat center/73%;
+    width: 100%;
+}
+#mem4:hover {
+    background: url(../assets/full-quack.jpg) no-repeat center/65%;
+    width: 100%;
+}
+
+.memes-text {
+    font-size: 1.6em;
+    margin: 0 auto;
+    font-weight: 500;
+    background-color: cornsilk;
+
+}
+.memes-text:hover {
+    background-color: rgb(221, 241, 185);
+
+}
+.memes-img {
+    display: none;
+}
+.memes-icon {
+
+}
+footer {
+
+}
+.copyright {
+    font-size: 1em;
+    bottom: 0;
+}
+
+
+
+
+
